@@ -15,7 +15,7 @@ body {
 }
 
 .wrapper {
-    /* margin:2em; */
+    margin:2em;
     width: 800px;
     background-color: rgb(199, 199, 199);
     box-shadow: 0 0 10px 3px black;
@@ -92,6 +92,7 @@ li:last-child {
     }
 
     .wrapper {
+        margin: 0;
         min-width: 320px;
     }
 
